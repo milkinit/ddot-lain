@@ -6,7 +6,7 @@ This repository contains configuration files, themes, scripts, and tools for cre
 
 ## Project Structure
 ```
-DDot-Lain/
+ddot-lain/
 ├── install.sh
 ├── LICENSE
 ├── README.md
