@@ -68,5 +68,5 @@ The installation script installs the following tools:
 Clone this repository:
 
 ```bash
-git clone https://github.com/milkinit/DDot-Lain.git && cd DDot-Lain && ./install.sh
+git clone https://github.com/milkinit/ddot-lain.git && cd ddot-lain && ./install.sh
 ```
