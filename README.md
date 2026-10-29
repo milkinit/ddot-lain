@@ -28,6 +28,7 @@ ddot-lain/
 - i3status system information bar
 - Ranger terminal file manager
 - Feh wallpaper support
+- Tmux terminal multiplexer
 - Installation script for Debian-based systems
 
 ## Preview
@@ -59,6 +60,7 @@ The installation script installs the following tools:
 - `feh` — image viewer and wallpaper setter
 - `fonts-font-awesome` — icon fonts
 - `dmenu` — application launcher
+- `tmux` — terminal multiplexer
 
 ## Installation
 
