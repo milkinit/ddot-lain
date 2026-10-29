@@ -28,7 +28,6 @@ ddot-lain/
 - i3status system information bar
 - Ranger terminal file manager
 - Feh wallpaper support
-- Tmux terminal multiplexer
 - Installation script for Debian-based systems
 
 ## Preview
@@ -55,13 +54,11 @@ The installation script installs the following tools:
 - `i3` — lightweight window manager
 - `i3status` — system information bar for i3
 - `kitty` — terminal emulator
-- `firefox-esr` — extended-support web browser
 - `ranger` — terminal file manager
 - `git` — version control system
 - `feh` — image viewer and wallpaper setter
 - `fonts-font-awesome` — icon fonts
 - `dmenu` — application launcher
-- `tmux` — terminal multiplexer
 
 ## Installation
 
