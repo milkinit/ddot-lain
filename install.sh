@@ -29,9 +29,9 @@ update_system() {
 install_deps() {
   echo "| INSTALLING DEPENDENCIES |"
   $SUDO apt install -y \
-    xorg i3 i3status kitty firefox-esr ranger \
+    xorg i3 i3status kitty ranger \
     imagemagick git make gcc feh fonts-font-awesome \
-    dmenu tmux
+    dmenu
     echo "| DONE |"
 }
 
