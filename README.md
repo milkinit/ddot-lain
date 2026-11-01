@@ -10,12 +10,7 @@ ddot-lain/
 ├── install.sh
 ├── LICENSE
 ├── README.md
-├── .config/
-└── grub-theme/
-    ├── install.sh
-    ├── theme.txt
-    ├── background.png
-    └── ...
+└── .config/
 ```
 
 ## Features
