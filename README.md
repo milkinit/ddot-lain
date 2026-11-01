@@ -1,8 +1,4 @@
-# Serial Experiments Lain Dotfiles
-
-A lightweight Debian-based desktop environment inspired by *Serial Experiments Lain*.
-
-This repository contains configuration files, themes, scripts, and tools for creating a minimal Lain-themed Linux setup using the i3 window manager.
+# Serial Experiments Lain Dotfiles (Debian-based)
 
 ## Project Structure
 ```
@@ -13,22 +9,10 @@ ddot-lain/
 └── .config/
 ```
 
-## Features
-
-- Lightweight Xorg desktop environment
-- i3 window manager
-- Lain-inspired terminal and desktop appearance
-- Kitty terminal emulator
-- Dmenu application launcher
-- i3status system information bar
-- Ranger terminal file manager
-- Feh wallpaper support
-- Tmux terminal multiplexer
-- Installation script for Debian-based systems
-
 ## Preview
-<img width="100%" height="798" alt="image" src="assets/preview1.png" />
-<img width="100%" height="797" alt="image" src="assets/preview2.png" />
+<div align="center">
+<img width="47%" height="798" alt="image" src="assets/preview1.png" /><img width="47%" height="797" alt="image" src="assets/preview2.png" />
+</div>
 
 ## Requirements
 
