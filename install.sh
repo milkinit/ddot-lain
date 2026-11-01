@@ -31,20 +31,14 @@ install_deps() {
   $SUDO apt install -y \
     xorg i3 i3status kitty ranger \
     imagemagick git make gcc feh fonts-font-awesome \
-    dmenu tmux
+    dmenu tmux fastfetch
     echo "| DONE |"
 }
 
-install_fastfetch() {
-  echo "| INSTALLING FASTFETCH |"
-  $SUDO apt install fastfetch -y
-  echo "| DONE |"
-}
 
 main() {
   update_system
   install_deps
-  install_fastfetch
   copy_config
   echo "| RESTARTING + RELOADING I3 |"
   i3 --get-socketpath
